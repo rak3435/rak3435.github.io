@@ -1,0 +1,4 @@
+#EXTM3U 
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=700000,CODECS="avc1.4d001e,avc1.42000d,avc1.64000c,avc1.64001e,avc1.64001f,mp4a.40.2,mp4a.40.5"
+http://jmrk.xyz:3050//live/tbogans@comcast.net/LK3Xps4jOg/425332.m3u8
