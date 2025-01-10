@@ -1,4 +1,0 @@
-#EXTM3U 
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=700000,CODECS="avc1.4d001e,avc1.42000d,avc1.64000c,avc1.64001e,avc1.64001f,mp4a.40.2,mp4a.40.5"
-http://livein1.com:2095/play/live.php?mac=00:1a:79:b1:85:5e&stream=186507&extension=m3u8
